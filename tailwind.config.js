@@ -18,6 +18,14 @@ module.exports = {
                     950: "#460f04",
                 },
             },
+            typography: ({ theme }) => ({
+                rust: {
+                    css: {
+                        "--tw-prose-links": theme("colors.rust[700]"),
+                        "--tw-prose-invert-links": theme("colors.white"),
+                    },
+                },
+            }),
         },
     },
     plugins: [require("@tailwindcss/typography")],

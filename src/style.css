@@ -27,7 +27,7 @@ header .title {
 }
 
 main {
-    @apply prose max-w-none;
+    @apply prose prose-rust max-w-none;
 }
 
 .link {
