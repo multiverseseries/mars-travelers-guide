@@ -3,6 +3,10 @@ layout: page
 title: Traveler's Guide to Mars Symphony
 ---
 
+<a class="link prominent" target="_blank" href="https://www.mos.org/events/subspace/mars-symphony">
+    Get Tickets for Mars Symphony at the Museum of Science
+</a>
+
 Greetings! Composer David Ibbett here, accompanying you on an audiovisual journey to the red planet.
 
 To guide us on this interplanetary journey, we've created this **Traveler's Guide to Mars

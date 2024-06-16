@@ -31,7 +31,11 @@ main {
 }
 
 .link {
-    @apply block px-4 py-2.5 border-2 border-blue-500 rounded-md text-blue-500 text-center no-underline;
+    @apply block px-4 py-2.5 border-2 border-rust-700 rounded-md text-rust-700 text-center no-underline;
+}
+
+.link.prominent {
+    @apply bg-rust-700 text-white;
 }
 
 audio {
