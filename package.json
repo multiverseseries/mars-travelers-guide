@@ -4,7 +4,7 @@
     "scripts": {
         "build": "npm-run-all build:*",
         "build:eleventy": "npx @11ty/eleventy",
-        "build:tailwind": "npx tailwindcss -i src/style.css -o _site/style.css",
+        "build:tailwind": "npx tailwindcss -i src/styles/global.css -o _site/styles/global.css",
         "dev": "npm-run-all --parallel dev:*",
         "dev:eleventy": "npm run build:eleventy -- --serve",
         "dev:tailwind": "npm run build:tailwind -- --watch"
