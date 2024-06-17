@@ -4,26 +4,21 @@ title: Traveler's Guide to Mars Symphony
 ---
 
 <a class="link prominent" target="_blank" href="https://www.mos.org/events/subspace/mars-symphony">
-    Get Tickets for Mars Symphony at the Museum of Science
+    Get Tickets for Mars Symphony
 </a>
 
-Greetings! Composer David Ibbett here, accompanying you on an audiovisual journey to the red planet.
+Greetings! Composer David Ibbett here, accompanying you on an audiovisual journey to the Red Planet.
 
-To guide us on this interplanetary journey, we've created this **Traveler's Guide to Mars
-Symphony**. Explore these pages to learn about each of the Symphony's 5 movements...
+<img src="/assets/David Ibbett Headshot 2023.jpg">
 
-But first, sign up for the newsletter!
+To guide you on this interplanetary journey, we've created this **Traveler's Guide to Mars
+Symphony**. Explore this app to learn about the science behind Mars Symphony - how we can translate
+data into sound to unfold the story of Mars’ past, present and future.
 
-<a class="link" target="_blank" href="https://www.multiverseseries.org">
-    Join the Multiverse Newsletter
-</a>
+Try testing your audio now:
 
-Test your audio:
+**Sunrise Over Tharsis**
 
-<audio controls>
-    <source src="/audio/dust-devil.m4a">
-</audio>
+<audio controls src="/assets/Sunrise Over Tharsis.m4a"></audio>
 
-The story of Mars' past and future...
-
-<a class="link" href="/movement-1">Take Me to Mars!</a>
+<a class="link" href="/microphones-on-mars">Take Me to Mars!</a>

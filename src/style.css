@@ -12,7 +12,7 @@ body {
 
 header {
     @apply text-center px-4 py-6 mb-4 bg-gray-50 rounded-md text-white;
-    background-image: url("images/mars.png");
+    background-image: url("/assets/Mars.png");
     background-size: 100% auto;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,7 +31,7 @@ main {
 }
 
 .link {
-    @apply block px-4 py-2.5 border-2 border-rust-700 rounded-md text-rust-700 text-center no-underline;
+    @apply block mb-4 px-4 py-2.5 border-2 border-rust-700 rounded-md text-rust-700 text-center no-underline;
 }
 
 .link.prominent {
@@ -40,4 +40,8 @@ main {
 
 audio {
     @apply block w-full;
+}
+
+img {
+    @apply block max-w-full max-h-60 mx-auto rounded-md;
 }
