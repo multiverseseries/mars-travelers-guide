@@ -7,12 +7,12 @@ title: Mars Quakes, Volcanoes and Catastrophe
 
 3 billion years ago when our solar system was young, Mars was a very different planet.
 
-What was this planet like? Was it home to life?
+_What was this planet like? Was it home to life?_
 
 Ancient Mars was volcanically and likely tectonically active, rocked by meteor impacts triggering
 immense Mars Quakes which tore the landscape asunder.
 
-Would you like to hear one? Don’t worry, it’s safe.
+_Would you like to hear one? Don’t worry, it’s safe._
 
 **Mars Quake**
 
@@ -23,11 +23,11 @@ simulate a high magnitude event (credit Amir Khan, ETH Zurich). Transposed up by
 literally hear the planet itself ringing like a bell. Seismologists call these the ‘normal modes’ of
 the planet.
 
-**Normal Modes of Mars (credit: Celia Eddy)**
+**Normal Modes of Mars**
 
 <audio controls src="/assets/Mars Normal Modes.m4a"></audio>
 
-**Normal Modes of Earth**
+**Normal Modes of Earth (credit: Cecilia Eddy)**
 
 <audio controls src="/assets/Earth Normal Modes.m4a"></audio>
 

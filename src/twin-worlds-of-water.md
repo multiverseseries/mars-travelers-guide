@@ -22,6 +22,6 @@ by molecule - leaving us exposed to the harshness of space.
 The result of a weak magnetic field? The frigid desert that is modern day Mars, unable to hold heat
 or a substantial atmosphere.
 
-An atmosphere is a fragile thing, and should not be taken for granted.
+_An atmosphere is a fragile thing, not to be taken for granted._
 
 <a class="link" href="/modern-atmosphere">What is Mars’ modern atmosphere like?</a>

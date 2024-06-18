@@ -7,9 +7,11 @@ title: Microphones on Mars
 
 Today Mars is a desert planet, much like Arrakis of Herbert’s Dune (although no sandworms have been
 reported). Although we cannot yet visit in person, we can experience what it’s like to be on our
-neighboring world through images, and most recently - through sound!
+neighboring world through images, and most recently - through sound! The Perseverance Rover is
+equipped with two microphones: a descent mic for landing, and a Supercam microphone to listen on the
+surface.
 
-This is incredibly exciting for music loves, as sound connects us to our world in such a direct
+This is incredibly exciting for music lovers, as sound connects us to our world in such a direct
 physical and emotional way. Mars Symphony begins with the real sounds of Mars recorded by the
 Perseverance Rover and Insight Lander:
 
@@ -20,10 +22,6 @@ Perseverance Rover and Insight Lander:
 **Dust Devil**
 
 <audio controls src="/assets/Dust Devil.m4a"></audio>
-
-**Seismic Waves**
-
-TODO
 
 **Micro Asteroid Impact**
 

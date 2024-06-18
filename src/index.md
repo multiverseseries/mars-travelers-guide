@@ -22,3 +22,7 @@ Try testing your audio now:
 <audio controls src="/assets/Sunrise Over Tharsis.m4a"></audio>
 
 <a class="link" href="/microphones-on-mars">Take Me to Mars!</a>
+
+<a class="link" target="_blank" href="https://www.multiverseseries.org/">Join the Mailing List</a>
+
+<img src="/assets/logos.png">
