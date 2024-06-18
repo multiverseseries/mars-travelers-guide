@@ -12,7 +12,7 @@ body {
 
 header {
     @apply text-center px-4 py-6 mb-4 bg-gray-50 rounded-md text-white;
-    background-image: url("/assets/Mars.png");
+    background-image: url("/assets/Mars.jpg");
     background-size: 100% auto;
     background-position: center;
     background-repeat: no-repeat;
