@@ -24,8 +24,8 @@ clasts:
 
 <iframe class="video" src="https://www.youtube.com/embed/2s5spWA5D-I?si=njKfFlP8ZnpGDeaa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a class="link" target="_blank" href="https://www.multiverseseries.org">
-    Enjoy the Show
+<a class="link" target="_blank" href="https://www.multiverseseries.org/">
+    Join the Mailing List
 </a>
 
 <a class="link prominent" target="_blank" href="https://www.mos.org/events/subspace/mars-symphony">
