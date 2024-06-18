@@ -27,7 +27,7 @@ the planet.
 
 <audio controls src="/assets/Mars Normal Modes.m4a"></audio>
 
-**Normal Modes of Earth (credit: Cecilia Eddy)**
+**Normal Modes of Earth (credit: Celia Eddy)**
 
 <audio controls src="/assets/Earth Normal Modes.m4a"></audio>
 
