@@ -41,7 +41,7 @@ Traveler's Guide to Mars Symphony designed by [Wilson Gramer](https://gramer.dev
 Polytechnic Institute
 
 Project Research by NASA JPL <br> Music by David Ibbett <br> Narration by Laurie Leshin, Director,
-NASA JPL <br> Animations by the Charles Hayden Planetarium
+NASA JPL <br> Animations by the Charles Hayden Planetarium.
 
 <hr>
 
