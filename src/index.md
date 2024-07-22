@@ -3,8 +3,8 @@ layout: page
 title: Traveler's Guide to Mars Symphony
 ---
 
-<a class="link prominent" target="_blank" href="https://www.mos.org/events/subspace/mars-symphony">
-    Get Tickets for Mars Symphony
+<a class="link prominent" target="_blank" href="https://www.multiverseseries.org/">
+    Visit Multiverse Concert Series
 </a>
 
 Greetings! Composer David Ibbett here, accompanying you on an audiovisual journey to the Red Planet.
